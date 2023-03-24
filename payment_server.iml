@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="ELIXIR_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/_build/dev/lib/payment_server/ebin" />
+    <output-test url="file://$MODULE_DIR$/_build/test/lib/payment_server/ebin" />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/lib" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/spec" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/test" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/assets/node_modules/phoenix" />
+      <excludeFolder url="file://$MODULE_DIR$/assets/node_modules/phoenix_html" />
+      <excludeFolder url="file://$MODULE_DIR$/cover" />
+      <excludeFolder url="file://$MODULE_DIR$/deps" />
+      <excludeFolder url="file://$MODULE_DIR$/doc" />
+      <excludeFolder url="file://$MODULE_DIR$/logs" />
+      <excludeFolder url="file://$MODULE_DIR$/_build/dev/lib/ecto" />
+      <excludeFolder url="file://$MODULE_DIR$/_build/dev/lib/mime" />
+      <excludeFolder url="file://$MODULE_DIR$/_build/dev/lib/plug" />
+      <excludeFolder url="file://$MODULE_DIR$/_build/dev/lib/jason" />
+      <excludeFolder url="file://$MODULE_DIR$/_build/dev/lib/ranch" />
+      <excludeFolder url="file://$MODULE_DIR$/_build/dev/lib/cowboy" />
+      <excludeFolder url="file://$MODULE_DIR$/_build/dev/lib/cowlib" />
+      <excludeFolder url="file://$MODULE_DIR$/_build/dev/lib/castore" />
+      <excludeFolder url="file://$MODULE_DIR$/_build/dev/lib/decimal" />
+      <excludeFolder url="file://$MODULE_DIR$/_build/dev/lib/phoenix" />
+      <excludeFolder url="file://$MODULE_DIR$/_build/dev/lib/ecto_sql" />
+      <excludeFolder url="file://$MODULE_DIR$/_build/dev/lib/postgrex" />
+      <excludeFolder url="file://$MODULE_DIR$/_build/dev/lib/telemetry" />
+      <excludeFolder url="file://$MODULE_DIR$/_build/dev/lib/connection" />
+      <excludeFolder url="file://$MODULE_DIR$/_build/dev/lib/plug_cowboy" />
+      <excludeFolder url="file://$MODULE_DIR$/_build/dev/lib/plug_crypto" />
+      <excludeFolder url="file://$MODULE_DIR$/_build/dev/lib/phoenix_ecto" />
+      <excludeFolder url="file://$MODULE_DIR$/_build/dev/lib/phoenix_html" />
+      <excludeFolder url="file://$MODULE_DIR$/_build/dev/lib/phoenix_view" />
+      <excludeFolder url="file://$MODULE_DIR$/_build/dev/lib/db_connection" />
+      <excludeFolder url="file://$MODULE_DIR$/_build/dev/lib/phoenix_pubsub" />
+      <excludeFolder url="file://$MODULE_DIR$/_build/dev/lib/cowboy_telemetry" />
+      <excludeFolder url="file://$MODULE_DIR$/_build/dev/lib/phoenix_template" />
+      <excludeFolder url="file://$MODULE_DIR$/_build/dev/lib/telemetry_poller" />
+      <excludeFolder url="file://$MODULE_DIR$/_build/dev/lib/phoenix_live_view" />
+      <excludeFolder url="file://$MODULE_DIR$/_build/dev/lib/telemetry_metrics" />
+      <excludeFolder url="file://$MODULE_DIR$/_build/dev/lib/phoenix_live_dashboard" />
+      <excludeFolder url="file://$MODULE_DIR$/_build/dev/lib/dataloader" />
+      <excludeFolder url="file://$MODULE_DIR$/_build/dev/lib/absinthe" />
+      <excludeFolder url="file://$MODULE_DIR$/_build/dev/lib/error_message" />
+      <excludeFolder url="file://$MODULE_DIR$/_build/dev/lib/absinthe_plug" />
+      <excludeFolder url="file://$MODULE_DIR$/_build/dev/lib/nimble_parsec" />
+      <excludeFolder url="file://$MODULE_DIR$/_build/dev/lib/absinthe_phoenix" />
+      <excludeFolder url="file://$MODULE_DIR$/_build/dev/lib/ecto_shorts" />
+      <excludeFolder url="file://$MODULE_DIR$/_build/dev/lib/hpax" />
+      <excludeFolder url="file://$MODULE_DIR$/_build/dev/lib/mint" />
+      <excludeFolder url="file://$MODULE_DIR$/_build/dev/lib/nimble_options" />
+      <excludeFolder url="file://$MODULE_DIR$/_build/dev/lib/nimble_pool" />
+      <excludeFolder url="file://$MODULE_DIR$/_build/dev/lib/finch" />
+      <excludeFolder url="file://$MODULE_DIR$/_build/dev/lib/money" />
+      <excludeFolder url="file://$MODULE_DIR$/_build/test/lib/ecto" />
+      <excludeFolder url="file://$MODULE_DIR$/_build/test/lib/hpax" />
+      <excludeFolder url="file://$MODULE_DIR$/_build/test/lib/mime" />
+      <excludeFolder url="file://$MODULE_DIR$/_build/test/lib/mint" />
+      <excludeFolder url="file://$MODULE_DIR$/_build/test/lib/plug" />
+      <excludeFolder url="file://$MODULE_DIR$/_build/test/lib/finch" />
+      <excludeFolder url="file://$MODULE_DIR$/_build/test/lib/jason" />
+      <excludeFolder url="file://$MODULE_DIR$/_build/test/lib/ranch" />
+      <excludeFolder url="file://$MODULE_DIR$/_build/test/lib/cowboy" />
+      <excludeFolder url="file://$MODULE_DIR$/_build/test/lib/cowlib" />
+      <excludeFolder url="file://$MODULE_DIR$/_build/test/lib/castore" />
+      <excludeFolder url="file://$MODULE_DIR$/_build/test/lib/decimal" />
+      <excludeFolder url="file://$MODULE_DIR$/_build/test/lib/phoenix" />
+      <excludeFolder url="file://$MODULE_DIR$/_build/test/lib/absinthe" />
+      <excludeFolder url="file://$MODULE_DIR$/_build/test/lib/ecto_sql" />
+      <excludeFolder url="file://$MODULE_DIR$/_build/test/lib/postgrex" />
+      <excludeFolder url="file://$MODULE_DIR$/_build/test/lib/telemetry" />
+      <excludeFolder url="file://$MODULE_DIR$/_build/test/lib/connection" />
+      <excludeFolder url="file://$MODULE_DIR$/_build/test/lib/dataloader" />
+      <excludeFolder url="file://$MODULE_DIR$/_build/test/lib/ecto_shorts" />
+      <excludeFolder url="file://$MODULE_DIR$/_build/test/lib/nimble_pool" />
+      <excludeFolder url="file://$MODULE_DIR$/_build/test/lib/plug_cowboy" />
+      <excludeFolder url="file://$MODULE_DIR$/_build/test/lib/plug_crypto" />
+      <excludeFolder url="file://$MODULE_DIR$/_build/test/lib/phoenix_ecto" />
+      <excludeFolder url="file://$MODULE_DIR$/_build/test/lib/phoenix_html" />
+      <excludeFolder url="file://$MODULE_DIR$/_build/test/lib/phoenix_view" />
+      <excludeFolder url="file://$MODULE_DIR$/_build/test/lib/absinthe_plug" />
+      <excludeFolder url="file://$MODULE_DIR$/_build/test/lib/db_connection" />
+      <excludeFolder url="file://$MODULE_DIR$/_build/test/lib/error_message" />
+      <excludeFolder url="file://$MODULE_DIR$/_build/test/lib/nimble_parsec" />
+      <excludeFolder url="file://$MODULE_DIR$/_build/test/lib/nimble_options" />
+      <excludeFolder url="file://$MODULE_DIR$/_build/test/lib/phoenix_pubsub" />
+      <excludeFolder url="file://$MODULE_DIR$/_build/test/lib/absinthe_phoenix" />
+      <excludeFolder url="file://$MODULE_DIR$/_build/test/lib/cowboy_telemetry" />
+      <excludeFolder url="file://$MODULE_DIR$/_build/test/lib/phoenix_template" />
+      <excludeFolder url="file://$MODULE_DIR$/_build/test/lib/telemetry_poller" />
+      <excludeFolder url="file://$MODULE_DIR$/_build/test/lib/phoenix_live_view" />
+      <excludeFolder url="file://$MODULE_DIR$/_build/test/lib/telemetry_metrics" />
+      <excludeFolder url="file://$MODULE_DIR$/_build/test/lib/phoenix_live_dashboard" />
+      <excludeFolder url="file://$MODULE_DIR$/_build/dev/lib/meck" />
+      <excludeFolder url="file://$MODULE_DIR$/_build/dev/lib/mock" />
+      <excludeFolder url="file://$MODULE_DIR$/_build/test/lib/meck" />
+      <excludeFolder url="file://$MODULE_DIR$/_build/test/lib/mock" />
+      <excludeFolder url="file://$MODULE_DIR$/_build/dev/lib/credo" />
+      <excludeFolder url="file://$MODULE_DIR$/_build/dev/lib/file_system" />
+      <excludeFolder url="file://$MODULE_DIR$/_build/dev/lib/bunt" />
+      <excludeFolder url="file://$MODULE_DIR$/_build/dev/lib/sobelow" />
+      <excludeFolder url="file://$MODULE_DIR$/_build/test/lib/bunt" />
+      <excludeFolder url="file://$MODULE_DIR$/_build/test/lib/credo" />
+      <excludeFolder url="file://$MODULE_DIR$/_build/test/lib/sobelow" />
+      <excludeFolder url="file://$MODULE_DIR$/_build/test/lib/file_system" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="phoenix" level="project" />
+    <orderEntry type="library" name="phoenix_ecto" level="project" />
+    <orderEntry type="library" name="ecto_sql" level="project" />
+    <orderEntry type="library" name="postgrex" level="project" />
+    <orderEntry type="library" name="phoenix_live_dashboard" level="project" />
+    <orderEntry type="library" name="telemetry_metrics" level="project" />
+    <orderEntry type="library" name="telemetry_poller" level="project" />
+    <orderEntry type="library" name="jason" level="project" />
+    <orderEntry type="library" name="plug_cowboy" level="project" />
+    <orderEntry type="library" name="plug" level="project" />
+    <orderEntry type="library" name="plug_crypto" level="project" />
+    <orderEntry type="library" name="telemetry" level="project" />
+    <orderEntry type="library" name="phoenix_pubsub" level="project" />
+    <orderEntry type="library" name="phoenix_view" level="project" />
+    <orderEntry type="library" name="castore" level="project" />
+    <orderEntry type="library" name="ex_doc" level="project" />
+    <orderEntry type="library" name="ecto" level="project" />
+    <orderEntry type="library" name="gettext" level="project" />
+    <orderEntry type="library" name="makeup_eex" level="project" />
+    <orderEntry type="library" name="makeup_elixir" level="project" />
+    <orderEntry type="library" name="phoenix_html" level="project" />
+    <orderEntry type="library" name="phx_new" level="project" />
+    <orderEntry type="library" name="mint" level="project" />
+    <orderEntry type="library" name="mint_web_socket" level="project" />
+    <orderEntry type="library" name="esbuild" level="project" />
+    <orderEntry type="library" name="db_connection" level="project" />
+    <orderEntry type="library" name="myxql" level="project" />
+    <orderEntry type="library" name="tds" level="project" />
+    <orderEntry type="library" name="benchee" level="project" />
+    <orderEntry type="library" name="benchee_json" level="project" />
+    <orderEntry type="library" name="table" level="project" />
+    <orderEntry type="library" name="decimal" level="project" />
+    <orderEntry type="library" name="connection" level="project" />
+    <orderEntry type="library" name="mime" level="project" />
+    <orderEntry type="library" name="phoenix_live_view" level="project" />
+    <orderEntry type="library" name="ecto_psql_extras" level="project" />
+    <orderEntry type="library" name="ecto_mysql_extras" level="project" />
+    <orderEntry type="library" name="circular_buffer" level="project" />
+    <orderEntry type="library" name="phoenix_live_reload" level="project" />
+    <orderEntry type="library" name="floki" level="project" />
+    <orderEntry type="library" name="stream_data" level="project" />
+    <orderEntry type="library" name="dart_sass" level="project" />
+    <orderEntry type="library" name="dialyxir" level="project" />
+    <orderEntry type="library" name="excoveralls" level="project" />
+    <orderEntry type="library" name="cowboy" level="project" />
+    <orderEntry type="library" name="cowboy_telemetry" level="project" />
+    <orderEntry type="library" name="hackney" level="project" />
+    <orderEntry type="library" name="kadabra" level="project" />
+    <orderEntry type="library" name="x509" level="project" />
+    <orderEntry type="library" name="phoenix_template" level="project" />
+    <orderEntry type="library" name="html_entities" level="project" />
+    <orderEntry type="library" name="absinthe" level="project" />
+    <orderEntry type="library" name="absinthe_plug" level="project" />
+    <orderEntry type="library" name="absinthe_phoenix" level="project" />
+    <orderEntry type="library" name="dataloader" level="project" />
+    <orderEntry type="library" name="ecto_shorts" level="project" />
+    <orderEntry type="library" name="nimble_parsec" level="project" />
+    <orderEntry type="library" name="mix_test_watch" level="project" />
+    <orderEntry type="library" name="makeup_graphql" level="project" />
+    <orderEntry type="library" name="error_message" level="project" />
+    <orderEntry type="library" name="credo" level="project" />
+    <orderEntry type="library" name="blitz_credo_checks" level="project" />
+    <orderEntry type="library" name="finch" level="project" />
+    <orderEntry type="library" name="nimble_pool" level="project" />
+    <orderEntry type="library" name="nimble_options" level="project" />
+    <orderEntry type="library" name="bypass" level="project" />
+    <orderEntry type="library" name="hpax" level="project" />
+    <orderEntry type="library" name="hpack" level="project" />
+    <orderEntry type="library" name="money" level="project" />
+    <orderEntry type="library" name="mock" level="project" />
+    <orderEntry type="library" name="meck" level="project" />
+    <orderEntry type="library" name="markdown" level="project" />
+    <orderEntry type="library" name="file_system" level="project" />
+    <orderEntry type="library" name="bunt" level="project" />
+    <orderEntry type="library" name="inch_ex" level="project" />
+    <orderEntry type="library" name="sobelow" level="project" />
+    <orderEntry type="library" name="dataloader" level="project" />
+  </component>
+</module>
