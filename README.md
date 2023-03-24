@@ -1,3 +1,5 @@
+![ScreenShot](https://github.com/alvarocallero/payment_server/blob/master/payment_server.png)
+
 # Payment Server
 PaymentServer allows sending money between users in different currencies. 
 All the operations were built using GraphQL mutations, queries, and subscriptions, such as create users and wallets, transfer money and receive notifications whenever some event occur.
